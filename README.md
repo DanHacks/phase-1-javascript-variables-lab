@@ -11,7 +11,7 @@ also go over how to read the test document. Understanding how to read the tests
 can be a valuable tool in figuring out exactly what you'll need to do to
 complete the lab.
 
-### Tests
+### Testsgit
 
 When we want to run an experiment, we need to develop a hypothesis and we need
 to test it. In programming, we run tests to verify that programs behave the way
